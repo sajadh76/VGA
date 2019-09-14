@@ -1,6 +1,6 @@
 ---------------------------------------------------------
 --  VGA                                                --
---  engineer: sajad hamzenejadi                        --
+--  engineer: Sajad Hamzenejadi                        --
 --  email: sajadhamzenejadi76@gmail.com                --
 --  2019, iran                                         --
 ---------------------------------------------------------
