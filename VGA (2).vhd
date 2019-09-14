@@ -1,3 +1,10 @@
+---------------------------------------------------------
+--  VGA                                                --
+--  engineer: sajad hamzenejadi                        --
+--  email: sajadhamzenejadi76@gmail.com                --
+--  2019, iran                                         --
+---------------------------------------------------------
+
 library IEEE;
  
 use IEEE.STD_LOGIC_1164.ALL;
